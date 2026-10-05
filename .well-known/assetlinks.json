@@ -9,4 +9,14 @@
       "16:43:3E:B4:F3:4C:C1:44:7B:71:3A:04:18:C3:43:61:3B:40:2C:5D:D9:B5:68:B3:69:51:F1:4D:54:21:5F:2C"
     ]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.marcomolleda_lgtm.notematic",
+    "sha256_cert_fingerprints": [
+      "0A:89:A4:7C:81:4E:CB:C5:48:94:3C:A5:28:F0:72:12:E2:67:0C:02:B1:81:75:AB:05:12:A4:FB:B4:10:3C:B3"
+    ]
+  }
 }]
